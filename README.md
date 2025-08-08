@@ -37,7 +37,7 @@ Shoes Websit/
 bash
 Copy
 Edit
-git clone https://github.com/123angmish/shoes-website/edit/main/README.md
+git clone https://github.com/123angmish/shoes-website
 2️⃣ Open the Project
 Navigate to the folder and open index.html in your browser:
 
